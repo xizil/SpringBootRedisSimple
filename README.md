@@ -1,0 +1,4 @@
+#SpringBootRedisSimple-持续完善
+spring-boot-starter-redis和jedis都是操作redis的类库，spring-boot-starter-redis是springboot项目中的一个插件，jedis是redis的java版本的客户端实现。在操作redis数据库上spring-boot-starter-redis和jedis的APPI有所不同，我通过这个项目将spring-boot-starter-redis中对应redis命令的API整理一下，希望对学习的同学有帮助。
+
+这个项目是我个人根据我所学知识整理，可能代码不够优美，语法不够精炼，也有肯能对redis的命令理解不正确，希望大家能够指正，我的邮箱：601476362@qq.com。
